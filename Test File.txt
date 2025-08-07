@@ -1,0 +1,7 @@
+ISIN Freeze
+ISIN Number : INE615R08181
+PAN Debarrment
+CAS ID : 895756481
+Consolidated Account Statement
+IFSC Code : SBIN0050292
+Bank Account Number : 10010001234
